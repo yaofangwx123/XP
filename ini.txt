@@ -1,0 +1,12 @@
+fuction:1
+0031
+D:\eclipsework\XP\files\app-debug.apk
+D:\eclipsework\XP\files\ggg.apk
+192.168.1.255
+fuction:2
+D:\Wisega_data\data\PriTool\src\com\bob
+1`888`A0 E3 13 00`Œ“ «À≠
+./result.txt
+fuction:3
+192.168.1.100
+fuction:2000000

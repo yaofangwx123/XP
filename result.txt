@@ -1,0 +1,30 @@
+------
+file: D:\Wisega_data\data\PriTool\src\com\bob\model\Searching.java
+key: 1
+index: 42
+line:				index = 1;
+------
+file: D:\Wisega_data\data\PriTool\src\com\bob\model\Searching.java
+key: 1
+index: 65
+line:			Tool.log("----------------------------------------------------------\nfinish "+total+"\nfind "+totalFindCount+"\ntime "+decimalFormat.format((System.currentTimeMillis()-time)/1000f)+" seconds");
+------
+file: D:\Wisega_data\data\PriTool\src\com\bob\pritool\PriToolMain.java
+key: 1
+index: 15
+line:	   /*#1:???§Ö????
+------
+file: D:\Wisega_data\data\PriTool\src\com\bob\pritool\PriToolMain.java
+key: 1
+index: 31
+line:		     case 1://search
+------
+file: D:\Wisega_data\data\PriTool\src\com\bob\pritool\PriToolMain.java
+key: 1
+index: 32
+line:			   int fuctionIndex = fuctions.indexOf("fuction:1");
+------
+file: D:\Wisega_data\data\PriTool\src\com\bob\pritool\PriToolMain.java
+key: 1
+index: 33
+line:			   Searching searching = new Searching(fuctions.get(fuctionIndex+1),fuctions.get(fuctionIndex+3),fuctions.get(fuctionIndex+2).split("`",-1));

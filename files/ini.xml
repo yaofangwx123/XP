@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<INI>
+	<password>123456</password>
+	<havesetpassword>true</havesetpassword>
+	<passwrongtime>5</passwrongtime>
+	<wrongpassday />
+</INI>
